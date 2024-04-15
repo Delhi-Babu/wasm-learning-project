@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./public/",
+    "noImplicitAny": true,
+    "module": "ES2022",
+    "target": "es5",
+    "allowJs": true,
+    "moduleResolution": "node"
+  }
+}
